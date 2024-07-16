@@ -76,7 +76,7 @@
             </h3>
             <p>
                 Babygramz was originally written using a customized instance of <a href="https://pocketbase.io/" target="_blank">Pocketbase</a> and <a href="https://preactjs.com/" target="_blank">Preact</a> as a way to explore
-                programming in Go and building an app in Preact/React, and writing end-to-end tests using Playwright.
+                programming in Go and building an app in Preact/React, and writing end-to-end tests using <a href="https://playwright.dev/" target="_blank">Playwright</a>.
                 The entire Preact front-end was bundled inside of the Pocketbase app as part of the Go executable, so the
                 Go-based backend and Preact-based frontend were able to be run as a single executable. Pretty neat!
             </p>
