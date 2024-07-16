@@ -14,6 +14,6 @@ Route::get('/resume', function() {
     return view('resume');
 })->name('resume');
 
-Route::get('/userscape', function () {
-    return view('userscape');
-})->name('userscape');
+//Route::get('/userscape', function () {
+//    return view('userscape');
+//})->name('userscape');
