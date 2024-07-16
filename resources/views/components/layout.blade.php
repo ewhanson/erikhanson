@@ -11,7 +11,7 @@
     <meta property="og:type" content="website">
     <meta name="og:title" content="Erik Hanson">
     <meta name="og:description" content="The personal website of Erik Hanson. Thanks for visiting! 👋">
-    <meta property="og:image" content="https://erikhanson.dev/images/og_home.png">
+    <meta property="og:image" content="https://erikhanson.dev/images/og_card.png">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
@@ -19,7 +19,7 @@
     <meta property="twitter:url" content="https://erikhanson.dev/">
     <meta name="twitter:title" content="Erik Hanson">
     <meta name="twitter:description" content="The personal website of Erik Hanson. Thanks for visiting! 👋">
-    <meta name="twitter:image" content="https://erikhanson.dev/images/og_home.png">
+    <meta name="twitter:image" content="https://erikhanson.dev/images/og_card.png">
 
     <link rel="icon" href="https://fav.farm/👋">
 
